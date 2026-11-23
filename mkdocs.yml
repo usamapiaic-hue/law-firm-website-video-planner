@@ -1,0 +1,10 @@
+site_name: Law Firm Website Video Planner
+site_description: A planner for the videos a law firm website actually needs, where each one goes, and how to keep it fast and compliant, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-website-video-planner.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Video planner: index.md
+markdown_extensions:
+  - tables
